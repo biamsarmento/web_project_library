@@ -43,6 +43,10 @@
     font-weight: bold;
   }
 
+  .nav__link:hover {
+    color: #2f80ed;
+  }
+
   .header__content {
     display: flex;
     justify-content: space-between;
@@ -388,6 +392,20 @@
     padding: 0;
     margin: 0;
   }
+
+  /* *********************
+  UMA DÚVIDA!
+  OLHE AQUI POR FAVOR!
+  ********************* */
+
+  /*
+  No roteiro tinha ficado bem claro para mim que era margin-top: 16px; no .footer__list_item
+  Mas na hora da revisão automática ele só aceitou depois que eue coloquei margin-bottom: 16px;...
+  */
+
+  /* Do roteiro: "Organize o conteúdo na segunda e terceira colunas de acordo com o design definindo o
+  espaçamento correto nos elementos footer__column-heading e footer__list-item.
+  Encontre uma maneira para garantir que não haja espaço depois do último item ̈" */
 
   .footer__list-item {
     /* margin-top: 16px; */
