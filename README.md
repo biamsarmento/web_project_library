@@ -24,5 +24,5 @@ In this project, I started developing my Front-End skills, making extensive use 
 
 ### 📦 Cloning the Repository
 ```bash
-git clone https://github.com/your-username/repository-name.git
-cd repository-name
+git clone https://github.com/biamsarmento/web_project_library.git
+cd web_project_library
