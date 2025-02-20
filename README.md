@@ -10,7 +10,7 @@ The objective of this project is to provide an intuitive digital platform for th
 
 ## 🚀 Outcome
 
-- Link to the website: https://biamsarmento.github.io/web_project_library/#membership  
+- Link to the website: https://biamsarmento.github.io/web_project_library
 <img width="1590" alt="Screenshot 2025-02-20 at 15 26 52" src="https://github.com/user-attachments/assets/04d19780-0bdf-44e2-b710-145ad73ffd72" />
 
 ## 🛠️ Technologies and Tools Used
